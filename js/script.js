@@ -7,13 +7,13 @@ const products = [
         price: 400,
 oldPrice: 750,
         desc: "Oversized black MO-WEAR fallen silence tee.",
-        image: "images/model-02.png",
+        image: "images -1/model-02.png",
         colors: ["Black", "White", "Burgundy", "Beige"],
          colorImages: {
-            White: "images/model-02-white.png",
-            Black: "images/model-02.png",
-             Burgundy:"images/model-02-burgundy.png",
-             Beige:"images/model-02-beige.png"
+            White: "images -1/model-02-white.png",
+            Black: "images -1/model-02.png",
+             Burgundy:"images -1/model-02-burgundy.png",
+             Beige:"images -1/model-02-beige.png"
     },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
@@ -24,13 +24,13 @@ oldPrice: 750,
         price: 400,
         oldPrice: 750,
         desc: "Clean cream tee with rose California graphic.",
-        image: "images/model-1.png",
+        image: "images -1/model-1.png",
         colors: ["Black", "White", "Burgundy", "Beige"],
       colorImages: {
-            White: "images/model-1-white.png",
-            Black: "images/model-1-black.png",
-             Burgundy:"images/model-1-burgundy.png",
-             Beige:"images/model-1.png"
+            White: "images -1/model-1-white.png",
+            Black: "images -1/model-1-black.png",
+             Burgundy:"images -1/model-1-burgundy.png",
+             Beige:"images -1/model-1.png"
     },
         sizes: ["M", "L", "XL","2XL","3XL"]
 },
@@ -41,13 +41,13 @@ oldPrice: 750,
         oldPrice: 750,
         price: 400,
         desc: "Black streetwear tee with Yin Yang Tee-inspired graphic.",
-        image: "images/model-03.png",
+        image: "images -1/model-03.png",
         colors: ["Black", "White", "Burgundy", "Beige"],
        colorImages: {
-            White: "images/model-03-white.png",
-            Black: "images/model-03.png",
-             Burgundy:"images/model-03-burgundy.png",
-             Beige:"images/model-03-beige.png"
+            White: "images -1/model-03-white.png",
+            Black: "images -1/model-03.png",
+             Burgundy:"images -1/model-03-burgundy.png",
+             Beige:"images -1/model-03-beige.png"
     },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
@@ -57,13 +57,13 @@ oldPrice: 750,
         category: "tshirts",
         price: 400,
         desc: "White streetwear tee with Future graphic.",
-        image: "images/model-05.png",
+        image: "images -1/model-05.png",
 
         colors: ["White", "Black"],
 
         colorImages: {
-            White: "images/model-05.png",
-            Black: "images/model-05-black.png"
+            White: "images -1/model-05.png",
+            Black: "images -1/model-05-black.png"
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
@@ -74,15 +74,15 @@ oldPrice: 750,
         category: "tshirts",
         price: 400,
         desc: "DARK eyes Tee",
-        image: "images/model-06.png",
+        image: "images -1/model-06.png",
 
         colors: ["white", "black", "Burgundy", "Beige"],
 
         colorImages: {
-            White: "images/model-06.png",
-            Black: "images/model-06-black.png",
-             Burgundy:"images/model-06-burgundy.png",
-             Beige:"images/model-06-beige.png"
+            White: "images -1/model-06.png",
+            Black: "images -1/model-06-black.png",
+             Burgundy:"images -1/model-06-burgundy.png",
+             Beige:"images -1/model-06-beige.png"
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
@@ -93,14 +93,14 @@ oldPrice: 750,
         category: "tshirts",
         price: 400,
         desc: "Oversized Hustle graphic tee with a clean streetwear look.",
-        image: "images/model-07.png",
+        image: "images -1/model-07.png",
 
         colors: ["Black", "White", "Burgundy", "Beige"],
 
         colorImages: {
-            White: "images/model-07-white.png",
-            Black: "images/model-07.png",
-             Burgundy:"images/model-07-burgundy.png",
+            White: "images -1/model-07-white.png",
+            Black: "images -1/model-07.png",
+             Burgundy:"images -1/model-07-burgundy.png",
              Beige:"images/model-07-beige.png"
         },
 
@@ -112,15 +112,15 @@ oldPrice: 750,
         category: "tshirts",
         price: 400,
         desc: "Oversized NEVER graphic tee with a clean and minimal streetwear style.",
-        image: "images/model-08-white.png",
+        image: "images -1/model-08-white.png",
 
         colors: ["White", "Black", "Burgundy", "Beige"],
 
         colorImages: {
-            White: "images/model-08-white.png",
-            Black: "images/model-08.png",
-             Burgundy:"images/model-08-burgundy.png",
-             Beige:"images/model-08-beige.png"
+            White: "images -1/model-08-white.png",
+            Black: "images -1/model-08.png",
+             Burgundy:"images -1/model-08-burgundy.png",
+             Beige:"images -1/model-08-beige.png"
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
@@ -131,15 +131,15 @@ oldPrice: 750,
         category: "tshirts",
         price: 400,
         desc: "Minimalist oversized tee with a clean Life graphic.",
-        image: "images/model-10.png",
+        image: "images -1/model-10.png",
 
         colors: ["Black", "White", "Burgundy", "Beige"],
 
         colorImages: {
-            White: "images/model-10-white.png",
-            Black: "images/model-10.png",
-             Burgundy:"images/model-10-burgundy.png",
-             Beige:"images/model-10-beige.png"
+            White: "images -1/model-10-white.png",
+            Black: "images -1/model-10.png",
+             Burgundy:"images -1/model-10-burgundy.png",
+             Beige:"images -1/model-10-beige.png"
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
@@ -150,15 +150,15 @@ oldPrice: 750,
         category: "tshirts",
         price: 450,
         desc: "oversized tee with a bold summer graphic.",
-        image: "images/model-11.png",
+        image: "images -1/model-11.png",
 
         colors: ["Black", "White", "Burgundy", "Beige"],
 
         colorImages: {
-            White: "images/model-11-white.png",
-            Black: "images/model-11.png",
-             Burgundy:"images/model-11-burgundy.png",
-             Beige:"images/model-11-beige.png"
+            White: "images -1/model-11-white.png",
+            Black: "images -1/model-11.png",
+             Burgundy:"images -1/model-11-burgundy.png",
+             Beige:"images -1/model-11-beige.png"
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
@@ -169,14 +169,14 @@ oldPrice: 750,
         category: "tshirts",
         price: 450,
         desc: "oversized tee with a bold lunar eclipse graphic.",
-        image: "images/model-12.png",
+        image: "images -1/model-12.png",
 
         colors: ["Black", "White", "Burgundy", "Beige"],
 
         colorImages: {
-            White: "images/model-12-white.png",
-            Black: "images/model-12.png",
-             Burgundy:"images/model-12-burgundy.png",
+            White: "images -1/model-12-white.png",
+            Black: "images -1/model-12.png",
+             Burgundy:"images -1/model-12-burgundy.png",
              Beige:"images/model-12-beige.png"
         },
 
@@ -188,15 +188,15 @@ oldPrice: 750,
         category: "tshirts",
         price: 450,
         desc: "oversized tee with a bold everyday graphic.",
-        image: "images/model-13-white.png",
+        image: "images -1/model-13-white.png",
 
         colors: ["White", "Black", "Burgundy", "Beige"],
 
         colorImages: {
-            White: "images/model-13-white.png",
-            Black: "images/model-13.png",
-             Burgundy:"images/model-13-burgundy.png",
-             Beige:"images/model-13-beige.png"
+            White: "images -1/model-13-white.png",
+            Black: "images -1/model-13.png",
+             Burgundy:"images -1/model-13-burgundy.png",
+             Beige:"images -1/model-13-beige.png"
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
@@ -207,15 +207,15 @@ oldPrice: 750,
         category: "tshirts",
         price: 400,
         desc: "Oversized Brooklyn graphic tee.",
-        image: "images/model-09.png",
+        image: "images -1/model-09.png",
 
         colors: ["Black", "White", "Burgundy", "Beige"],
 
         colorImages: {
-            White: "images/model-09-white.png",
-            Black: "images/model-09.png",
-             Burgundy:"images/model-09-burgundy.png",
-             Beige:"images/model-09-beige.png"
+            White: "images -1/model-09-white.png",
+            Black: "images -1/model-09.png",
+             Burgundy:"images -1/model-09-burgundy.png",
+             Beige:"images -1/model-09-beige.png"
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
@@ -226,7 +226,7 @@ oldPrice: 750,
         category: "tshirts",
         price: 400,
         desc: "Oversized deep forest green tee with Courage chest graphic.",
-        image: "images/model-04.png",
+        image: "images -1/model-04.png",
         colors: ["Deep Forest Green"],
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
@@ -236,7 +236,7 @@ oldPrice: 750,
         category: "basic",
         price: 250,
         desc: "Clean slim basic white tee.",
-        image: "images/Basic-01.png",
+        image: "images -1/Basic-01.png",
         colors: ["White"],
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
@@ -247,7 +247,7 @@ oldPrice: 750,
         category: "basic",
         price: 250,
         desc: "Clean slim basic black tee.",
-        image: "images/Basic-02.png",
+        image: "images -1/Basic-02.png",
         colors: ["Black"],
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
@@ -258,7 +258,7 @@ oldPrice: 750,
         category: "basic",
         price: 250,
         desc: "Clean slim basic burgundy tee.",
-        image: "images/Basic-03.png",
+        image: "images -1/Basic-03.png",
         colors: ["Burgundy"],
         sizes: ["M", "L", "XL","2XL","3XL"]
     }
