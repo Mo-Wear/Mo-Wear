@@ -261,7 +261,7 @@ oldPrice: 750,
         image: "images -1/Basic-03.png",
         colors: ["Burgundy"],
         sizes: ["M", "L", "XL","2XL","3XL"]
-    }
+    },
       {
         id: 17,
         name: "Disperse",
