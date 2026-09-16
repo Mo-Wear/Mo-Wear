@@ -279,7 +279,25 @@ oldPrice: 750,
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
-    }
+    },
+     {
+        id: 18,
+        name: "Hellstar",
+        category: "Hoodies",
+        price: 350,
+            oldPrice: 650,
+        desc: "Horizon Darkness Oversized Hoodie.",
+        image: "images -1/model-15-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-15-white.png",
+            Black: "images -1/model-15-black.png",
+             Burgundy:"images -1/model-15-burgundy.png",
+             Beige:"images -1/model-15-beige.png"
+        },
+
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
 
 ];
 
