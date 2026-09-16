@@ -61,7 +61,7 @@ oldPrice: 750,
         oldPrice: 750,
         desc: "Clean cream tee with rose California graphic.",
         image: "images -1/model-1.png",
-        colors: ["Black", "White", "Burgundy", "Beige"],
+        colors: ["Beige", "White", "Burgundy", "black"],
       colorImages: {
             White: "images -1/model-1-white.png",
             Black: "images -1/model-1-black.png",
