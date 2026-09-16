@@ -177,7 +177,7 @@ oldPrice: 750,
             White: "images -1/model-12-white.png",
             Black: "images -1/model-12.png",
              Burgundy:"images -1/model-12-burgundy.png",
-             Beige:"images/model-12-beige.png"
+             Beige:"images -1/model-12-beige.png"
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
@@ -275,7 +275,7 @@ oldPrice: 750,
             White: "images -1/model-14-white.png",
             Black: "images -1/model-14-black.png",
              Burgundy:"images -1/model-14-burgundy.png",
-             Beige:"images/model-14-beige.png"
+             Beige:"images -1/model-14-beige.png"
         },
 
         sizes: ["M", "L", "XL","2XL","3XL"]
