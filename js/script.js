@@ -269,7 +269,7 @@ oldPrice: 750,
         price: 350,
             oldPrice: 650,
         desc: "Shadow Runner Oversized Hoodie.",
-        image: "images -1/model-14-white.png",
+        image: "images -1/model-14-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-14-white.png",
