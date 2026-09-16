@@ -262,6 +262,24 @@ oldPrice: 750,
         colors: ["Burgundy"],
         sizes: ["M", "L", "XL","2XL","3XL"]
     }
+      {
+        id: 17,
+        name: "Disperse",
+        category: "Hoodies",
+        price: 350,
+            oldPrice: 650,
+        desc: "Shadow Runner Oversized Hoodie.",
+        image: "images -1/model-14-white.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-14-white.png",
+            Black: "images -1/model-14-black.png",
+             Burgundy:"images -1/model-14-burgundy.png",
+             Beige:"images/model-14-beige.png"
+        },
+
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    }
 
 ];
 
