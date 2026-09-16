@@ -1,7 +1,43 @@
 const products = [
+     {
+        id: 1,
+        name: "Disperse",
+        category: "Hoodies",
+        price: 350,
+            oldPrice: 650,
+        desc: "Shadow Runner Oversized Hoodie.",
+        image: "images -1/model-14-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-14-white.png",
+            Black: "images -1/model-14-black.png",
+             Burgundy:"images -1/model-14-burgundy.png",
+             Beige:"images -1/model-14-beige.png"
+        },
+
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+     {
+        id: 2,
+        name: "Hellstar",
+        category: "Hoodies",
+        price: 350,
+            oldPrice: 650,
+        desc: "Horizon Darkness Oversized Hoodie.",
+        image: "images -1/model-15-white.png",
+       colors: ["white", "black", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-15-white.png",
+            Black: "images -1/model-15-black.png",
+             Burgundy:"images -1/model-15-burgundy.png",
+             Beige:"images -1/model-15-beige.png"
+        },
+
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
     
     {
-        id: 1,
+        id: 3,
         name: "fallen silence",
         category: "tshirts",
         price: 400,
@@ -18,7 +54,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 2,
+        id:4,
         name: "Rose California Tee",
         category: "tshirts",
         price: 400,
@@ -35,7 +71,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
 },
     {
-        id: 3,
+        id: 5,
         name: " Yin Yang Tee ",
         category: "tshirts",
         oldPrice: 750,
@@ -52,7 +88,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 4,
+        id: 6,
         name: "Future",
         category: "tshirts",
         price: 400,
@@ -69,7 +105,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
 {
-        id: 5,
+        id: 7,
         name: "DARK Tee",
         category: "tshirts",
         price: 400,
@@ -88,7 +124,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 6,
+        id: 8,
         name: "Hustle Tee",
         category: "tshirts",
         price: 400,
@@ -107,7 +143,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-         id: 7,
+         id: 9,
         name: "Never Tee",
         category: "tshirts",
         price: 400,
@@ -126,7 +162,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 8,
+         id: 10,
         name: "Life Tee",
         category: "tshirts",
         price: 400,
@@ -145,7 +181,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 9,
+         id: 11,
         name: "Summer Paradise Tee",
         category: "tshirts",
         price: 450,
@@ -164,7 +200,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
-         id: 10,
+         id: 12,
         name: "Dark Eclipse Tee",
         category: "tshirts",
         price: 450,
@@ -183,7 +219,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 11,
+         id: 13,
         name: "Better Everyday Tee",
         category: "tshirts",
         price: 450,
@@ -202,7 +238,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 12,
+         id: 14,
         name: "Brooklyn Hustlers Tee",
         category: "tshirts",
         price: 400,
@@ -221,7 +257,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 13,
+        id: 15,
         name: "Courage Tee",
         category: "tshirts",
         price: 400,
@@ -231,7 +267,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 14,
+        id: 16,
         name: "Basic White",
         category: "basic",
         price: 250,
@@ -242,7 +278,7 @@ oldPrice: 750,
     },
 
     {
-        id: 15,
+        id: 17,
         name: "Basic Black",
         category: "basic",
         price: 250,
@@ -253,7 +289,7 @@ oldPrice: 750,
     },
 
     {
-        id: 16,
+        id: 18,
         name: "Basic Burgundy",
         category: "basic",
         price: 250,
@@ -262,43 +298,7 @@ oldPrice: 750,
         colors: ["Burgundy"],
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
-      {
-        id: 17,
-        name: "Disperse",
-        category: "Hoodies",
-        price: 350,
-            oldPrice: 650,
-        desc: "Shadow Runner Oversized Hoodie.",
-        image: "images -1/model-14-black.png",
-       colors: ["Black", "White", "Burgundy", "Beige"],
-        colorImages: {
-            White: "images -1/model-14-white.png",
-            Black: "images -1/model-14-black.png",
-             Burgundy:"images -1/model-14-burgundy.png",
-             Beige:"images -1/model-14-beige.png"
-        },
-
-        sizes: ["M", "L", "XL","2XL","3XL"]
-    },
-     {
-        id: 18,
-        name: "Hellstar",
-        category: "Hoodies",
-        price: 350,
-            oldPrice: 650,
-        desc: "Horizon Darkness Oversized Hoodie.",
-        image: "images -1/model-15-white.png",
-       colors: ["white", "black", "Burgundy", "Beige"],
-        colorImages: {
-            White: "images -1/model-15-white.png",
-            Black: "images -1/model-15-black.png",
-             Burgundy:"images -1/model-15-burgundy.png",
-             Beige:"images -1/model-15-beige.png"
-        },
-
-        sizes: ["M", "L", "XL","2XL","3XL"]
-    },
-
+    
 ];
 
 /* =========================================
