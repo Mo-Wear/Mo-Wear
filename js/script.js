@@ -1,6 +1,22 @@
 const products = [
      {
         id: 1,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 550,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 2,
         name: "Disperse",
         category: "Hoodies",
         price: 350,
@@ -17,7 +33,7 @@ const products = [
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-        id: 2,
+        id: 3,
         name: "Hellstar",
         category: "Hoodies",
         price: 350,
@@ -36,7 +52,7 @@ const products = [
     },
     
     {
-        id: 3,
+        id: 4,
         name: "fallen silence",
         category: "tshirts",
         price: 400,
@@ -53,7 +69,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id:4,
+        id:5,
         name: "Rose California Tee",
         category: "tshirts",
         price: 400,
@@ -70,7 +86,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
 },
     {
-        id: 5,
+        id: 6,
         name: " Yin Yang Tee ",
         category: "tshirts",
         oldPrice: 750,
@@ -87,7 +103,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 6,
+        id: 7,
         name: "Future",
         category: "tshirts",
         price: 400,
@@ -104,7 +120,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
 {
-        id: 7,
+        id: 8,
         name: "DARK Tee",
         category: "tshirts",
         price: 400,
@@ -123,7 +139,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 8,
+        id: 9,
         name: "Hustle Tee",
         category: "tshirts",
         price: 400,
@@ -142,7 +158,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-         id: 9,
+         id: 10,
         name: "Never Tee",
         category: "tshirts",
         price: 400,
@@ -161,7 +177,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 10,
+         id: 11,
         name: "Life Tee",
         category: "tshirts",
         price: 400,
@@ -180,7 +196,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 11,
+         id: 12,
         name: "Summer Paradise Tee",
         category: "tshirts",
         price: 450,
@@ -199,7 +215,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
-         id: 12,
+         id: 13,
         name: "Dark Eclipse Tee",
         category: "tshirts",
         price: 450,
@@ -218,7 +234,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 13,
+         id: 14,
         name: "Better Everyday Tee",
         category: "tshirts",
         price: 450,
@@ -237,7 +253,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 14,
+         id: 15,
         name: "Brooklyn Hustlers Tee",
         category: "tshirts",
         price: 400,
@@ -256,7 +272,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 15,
+        id: 16,
         name: "Courage Tee",
         category: "tshirts",
         price: 400,
@@ -266,7 +282,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 16,
+        id: 17,
         name: "Basic White",
         category: "basic",
         price: 250,
@@ -277,7 +293,7 @@ oldPrice: 750,
     },
 
     {
-        id: 17,
+        id: 18,
         name: "Basic Black",
         category: "basic",
         price: 250,
@@ -288,7 +304,7 @@ oldPrice: 750,
     },
 
     {
-        id: 18,
+        id: 19,
         name: "Basic Burgundy",
         category: "basic",
         price: 250,
