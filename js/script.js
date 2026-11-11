@@ -14,7 +14,6 @@ const products = [
              Burgundy:"images -1/model-14-burgundy.png",
              Beige:"images -1/model-14-beige.png"
         },
-
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
