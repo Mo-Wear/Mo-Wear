@@ -21,8 +21,8 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: "Spider-Man Oversized Hoodie.",
-        image: "images -1/model-17-black.png",
-       colors: ["Black", "White", "Burgundy", "Beige"],
+        image: "images -1/model-17-white.png",
+       colors: ["White", "Black", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-17-white.png",
             Black: "images -1/model-17-black.png",
