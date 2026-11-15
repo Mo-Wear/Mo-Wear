@@ -67,7 +67,7 @@ const products = [
         id:5,
         name: "Hellstar",
         category: "Hoodies",
-        price: 550,
+        price: 450,
             oldPrice: 650,
         desc: "Horizon Darkness Oversized Hoodie.",
         image: "images -1/model-15-white.png",
