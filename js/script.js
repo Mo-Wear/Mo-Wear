@@ -17,10 +17,10 @@ const products = [
     },
        {
         id: 2,
-        name: "Deer hoodie",
+        name: "Lucky To Meet You hoodie",
         category: "Hoodies",
         price: 600,
-        desc: "Deer Oversized Hoodie.",
+        desc: "Deer Graphic Oversized Hoodie.",
         image: "images -1/model-19-burgundy.png",
        colors: ["Burgundy", "Black","White" , "Beige"],
         colorImages: {
