@@ -17,17 +17,17 @@ const products = [
     },
        {
         id: 2,
-        name: "Spider Man hoodie",
+        name: "Deer hoodie",
         category: "Hoodies",
         price: 600,
-        desc: "Spider-Man Oversized Hoodie.",
-        image: "images -1/model-17-white.png",
-       colors: ["White", "Black", "Burgundy", "Beige"],
+        desc: "Deer Oversized Hoodie.",
+        image: "images -1/model-19-burgundy.png",
+       colors: ["Burgundy", "Black","White" , "Beige"],
         colorImages: {
-            White: "images -1/model-17-white.png",
-            Black: "images -1/model-17-black.png",
-             Burgundy:"images -1/model-17-burgundy.png",
-             Beige:"images -1/model-17-beige.png"
+            White: "images -1/model-19-white.png",
+            Black: "images -1/model-19-black.png",
+             Burgundy:"images -1/model-19-burgundy.png",
+             Beige:"images -1/model-19-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
