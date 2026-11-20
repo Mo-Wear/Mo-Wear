@@ -642,17 +642,26 @@ document
    RENDER PRODUCTS
 ========================================= */
 
+let selectedGender = "men";
+
 function renderProducts(category = "all") {
 
     if (!productsEl) return;
 
-    const list =
-    category === "all"
-        ? products
-        : category === "sale"
-            ? products.filter(p => p.oldPrice && p.oldPrice > p.price)
-            : products.filter(p => p.category === category);
+    const genderProducts = products.filter(p =>
+        (p.gender || "men") === selectedGender
+    );
 
+    const list =
+        category === "all"
+            ? genderProducts
+            : category === "sale"
+                ? genderProducts.filter(p =>
+                    p.oldPrice && p.oldPrice > p.price
+                )
+                : genderProducts.filter(p =>
+                    p.category.toLowerCase() === category.toLowerCase()
+                );
     productsEl.innerHTML = list.map(p => `
 
         <article class="product-card">
