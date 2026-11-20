@@ -82,6 +82,7 @@ const products = [
       {
         id: 6,
         name: "Moon Knight hoodie",
+           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: "Moon KnightOversized Hoodie.",
@@ -765,7 +766,20 @@ function renderProducts(category = "all") {
     `).join("");
 
 }
+function filterGender(gender) {
 
+    selectedGender = gender;
+
+    renderProducts("all");
+
+    const shop = document.querySelector("#shop");
+
+    if (shop) {
+        shop.scrollIntoView({
+            behavior: "smooth"
+        });
+    }
+}
 
 
 /* =========================================
