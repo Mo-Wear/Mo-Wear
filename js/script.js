@@ -99,6 +99,7 @@ const products = [
       {
         id: 7,
         name: "Moon Knight hoodie",
+           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: "Moon KnightOversized Hoodie.",
@@ -115,6 +116,7 @@ const products = [
       {
         id: 8,
         name: "Moon Knight hoodie",
+           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: "Moon KnightOversized Hoodie.",
@@ -131,6 +133,7 @@ const products = [
       {
         id: 9,
         name: "Moon Knight hoodie",
+           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: "Moon KnightOversized Hoodie.",
