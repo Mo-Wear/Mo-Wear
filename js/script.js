@@ -69,7 +69,7 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: "The Black Oversized Hoodie.",
-        image: "images -1/model-20-black.png",
+        image: "images -1/model-20-white.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-20-white.png",
@@ -103,7 +103,7 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: "bulding stong Oversized Hoodie.",
-        image: "images -1/model-25-black.png",
+        image: "images -1/model-25-burgundy.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-25-white.png",
@@ -137,7 +137,7 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: " sa-br Oversized Hoodie.",
-        image: "images -1/model-27-black.png",
+        image: "images -1/model-27-white.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-27-white.png",
