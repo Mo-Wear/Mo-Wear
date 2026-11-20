@@ -65,6 +65,150 @@ const products = [
     },
       {
         id: 5,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 600,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 6,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 600,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 7,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 600,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 8,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 600,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 9,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 600,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 10,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 600,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 11,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 600,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 12,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 600,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 13,
+        name: "Moon Knight hoodie",
+        category: "Hoodies",
+        price: 600,
+        desc: "Moon KnightOversized Hoodie.",
+        image: "images -1/model-16-black.png",
+       colors: ["Black", "White", "Burgundy", "Beige"],
+        colorImages: {
+            White: "images -1/model-16-white.png",
+            Black: "images -1/model-16-black.png",
+             Burgundy:"images -1/model-16-burgundy.png",
+             Beige:"images -1/model-16-beige.png"
+        },
+        sizes: ["M", "L", "XL","2XL","3XL"]
+    },
+      {
+        id: 14,
         name: "Disperse",
         category: "Hoodies",
         price: 600,
@@ -80,7 +224,7 @@ const products = [
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-        id:6,
+        id:15,
         name: "Hellstar",
         category: "Hoodies",
         price: 600,
@@ -98,7 +242,7 @@ const products = [
     },
     
     {
-        id: 7,
+        id: 16,
         name: "fallen silence",
         category: "tshirts",
         price: 400,
@@ -115,7 +259,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id:8,
+        id:17,
         name: "Rose California Tee",
         category: "tshirts",
         price: 400,
@@ -132,7 +276,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
 },
     {
-        id: 9,
+        id: 18,
         name: " Yin Yang Tee ",
         category: "tshirts",
         oldPrice: 750,
@@ -149,7 +293,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 10,
+        id: 19,
         name: "Future",
         category: "tshirts",
         price: 400,
@@ -166,7 +310,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
 {
-        id: 11,
+        id: 20,
         name: "DARK Tee",
         category: "tshirts",
         price: 400,
@@ -185,7 +329,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 12,
+        id: 21,
         name: "Hustle Tee",
         category: "tshirts",
         price: 400,
@@ -204,7 +348,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-         id: 13,
+         id: 22,
         name: "Never Tee",
         category: "tshirts",
         price: 400,
@@ -223,7 +367,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 14,
+         id: 23,
         name: "Life Tee",
         category: "tshirts",
         price: 400,
@@ -242,7 +386,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 15,
+         id: 24,
         name: "Summer Paradise Tee",
         category: "tshirts",
         price: 450,
@@ -261,7 +405,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
-         id: 16,
+         id: 25,
         name: "Dark Eclipse Tee",
         category: "tshirts",
         price: 450,
@@ -280,7 +424,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 17,
+         id: 26,
         name: "Better Everyday Tee",
         category: "tshirts",
         price: 450,
@@ -299,7 +443,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
      {
-         id: 18,
+         id: 27,
         name: "Brooklyn Hustlers Tee",
         category: "tshirts",
         price: 400,
@@ -318,7 +462,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 19,
+        id: 28,
         name: "Courage Tee",
         category: "tshirts",
         price: 400,
@@ -328,7 +472,7 @@ oldPrice: 750,
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
     {
-        id: 20,
+        id: 29,
         name: "Basic White",
         category: "basic",
         price: 250,
@@ -339,7 +483,7 @@ oldPrice: 750,
     },
 
     {
-        id: 21,
+        id: 30,
         name: "Basic Black",
         category: "basic",
         price: 250,
@@ -350,7 +494,7 @@ oldPrice: 750,
     },
 
     {
-        id: 22,
+        id: 31,
         name: "Basic Burgundy",
         category: "basic",
         price: 250,
