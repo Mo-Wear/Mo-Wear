@@ -86,7 +86,7 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: "Banda Oversized Hoodie.",
-        image: "images -1/model-21-black.png",
+        image: "images -1/model-22-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-22-white.png",
@@ -103,7 +103,7 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: "bulding stong Oversized Hoodie.",
-        image: "images -1/model-16-black.png",
+        image: "images -1/model-25-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-25-white.png",
@@ -120,7 +120,7 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: " stitch Oversized Hoodie.",
-        image: "images -1/model-16-black.png",
+        image: "images -1/model-26-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-26-white.png",
@@ -137,7 +137,7 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: " sa-br Oversized Hoodie.",
-        image: "images -1/model-16-black.png",
+        image: "images -1/model-27-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-27-white.png",
@@ -153,7 +153,7 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: " Vision Oversized Hoodie.",
-        image: "images -1/model-16-black.png",
+        image: "images -1/model-21-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-21-white.png",
