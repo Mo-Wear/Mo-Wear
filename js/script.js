@@ -65,149 +65,149 @@ const products = [
     },
       {
         id: 5,
-        name: "Moon Knight hoodie",
+        name: "The Black hoodie",
         category: "Hoodies",
         price: 600,
-        desc: "Moon KnightOversized Hoodie.",
-        image: "images -1/model-16-black.png",
+        desc: "The Black Oversized Hoodie.",
+        image: "images -1/model-20-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
-            White: "images -1/model-16-white.png",
-            Black: "images -1/model-16-black.png",
-             Burgundy:"images -1/model-16-burgundy.png",
-             Beige:"images -1/model-16-beige.png"
+            White: "images -1/model-20-white.png",
+            Black: "images -1/model-20-black.png",
+             Burgundy:"images -1/model-20-burgundy.png",
+             Beige:"images -1/model-20-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
         id: 6,
-        name: "Moon Knight hoodie",
+        name: "Banda hoodie",
            gender:"women",
         category: "Hoodies",
         price: 600,
-        desc: "Moon KnightOversized Hoodie.",
-        image: "images -1/model-16-black.png",
+        desc: "Banda Oversized Hoodie.",
+        image: "images -1/model-21-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
-            White: "images -1/model-16-white.png",
-            Black: "images -1/model-16-black.png",
-             Burgundy:"images -1/model-16-burgundy.png",
-             Beige:"images -1/model-16-beige.png"
+            White: "images -1/model-22-white.png",
+            Black: "images -1/model-22-black.png",
+             Burgundy:"images -1/model-22-burgundy.png",
+             Beige:"images -1/model-22-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
         id: 7,
-        name: "Moon Knight hoodie",
+        name: "building stong girls hoodie",
            gender:"women",
         category: "Hoodies",
         price: 600,
-        desc: "Moon KnightOversized Hoodie.",
+        desc: "bulding stong Oversized Hoodie.",
         image: "images -1/model-16-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
-            White: "images -1/model-16-white.png",
-            Black: "images -1/model-16-black.png",
-             Burgundy:"images -1/model-16-burgundy.png",
-             Beige:"images -1/model-16-beige.png"
+            White: "images -1/model-25-white.png",
+            Black: "images -1/model-25-black.png",
+             Burgundy:"images -1/model-25-burgundy.png",
+             Beige:"images -1/model-25-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
         id: 8,
-        name: "Moon Knight hoodie",
+        name: "stitch hoodie",
            gender:"women",
         category: "Hoodies",
         price: 600,
-        desc: "Moon KnightOversized Hoodie.",
+        desc: " stitch Oversized Hoodie.",
         image: "images -1/model-16-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
-            White: "images -1/model-16-white.png",
-            Black: "images -1/model-16-black.png",
-             Burgundy:"images -1/model-16-burgundy.png",
-             Beige:"images -1/model-16-beige.png"
+            White: "images -1/model-26-white.png",
+            Black: "images -1/model-26-black.png",
+             Burgundy:"images -1/model-26-burgundy.png",
+             Beige:"images -1/model-26-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
         id: 9,
-        name: "Moon Knight hoodie",
+        name: "sa-br hoodie",
            gender:"women",
         category: "Hoodies",
         price: 600,
-        desc: "Moon KnightOversized Hoodie.",
+        desc: " sa-br Oversized Hoodie.",
         image: "images -1/model-16-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
-            White: "images -1/model-16-white.png",
-            Black: "images -1/model-16-black.png",
-             Burgundy:"images -1/model-16-burgundy.png",
-             Beige:"images -1/model-16-beige.png"
+            White: "images -1/model-27-white.png",
+            Black: "images -1/model-27-black.png",
+             Burgundy:"images -1/model-27-burgundy.png",
+             Beige:"images -1/model-27-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
         id: 10,
-        name: "Moon Knight hoodie",
+        name: "Vision hoodie",
         category: "Hoodies",
         price: 600,
-        desc: "Moon KnightOversized Hoodie.",
+        desc: " Vision Oversized Hoodie.",
         image: "images -1/model-16-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
-            White: "images -1/model-16-white.png",
-            Black: "images -1/model-16-black.png",
-             Burgundy:"images -1/model-16-burgundy.png",
-             Beige:"images -1/model-16-beige.png"
+            White: "images -1/model-21-white.png",
+            Black: "images -1/model-21-black.png",
+             Burgundy:"images -1/model-21-burgundy.png",
+             Beige:"images -1/model-21-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
         id: 11,
-        name: "Moon Knight hoodie",
+        name: " dont quit hoodie",
         category: "Hoodies",
         price: 600,
-        desc: "Moon KnightOversized Hoodie.",
-        image: "images -1/model-16-black.png",
+        desc: "Dont Quit Oversized Hoodie.",
+        image: "images -1/model-23-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
-            White: "images -1/model-16-white.png",
-            Black: "images -1/model-16-black.png",
-             Burgundy:"images -1/model-16-burgundy.png",
-             Beige:"images -1/model-16-beige.png"
+            White: "images -1/model-23-white.png",
+            Black: "images -1/model-23-black.png",
+             Burgundy:"images -1/model-23-burgundy.png",
+             Beige:"images -1/model-23-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
         id: 12,
-        name: "Moon Knight hoodie",
+        name: "No help hoodie",
         category: "Hoodies",
         price: 600,
-        desc: "Moon KnightOversized Hoodie.",
-        image: "images -1/model-16-black.png",
+        desc: "No Help Oversized Hoodie.",
+        image: "images -1/model-24-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
-            White: "images -1/model-16-white.png",
-            Black: "images -1/model-16-black.png",
-             Burgundy:"images -1/model-16-burgundy.png",
-             Beige:"images -1/model-16-beige.png"
+            White: "images -1/model-24-white.png",
+            Black: "images -1/model-24-black.png",
+             Burgundy:"images -1/model-24-burgundy.png",
+             Beige:"images -1/model-24-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
       {
         id: 13,
-        name: "Moon Knight hoodie",
+        name: "sa-br ( men ) hoodie",
         category: "Hoodies",
         price: 600,
-        desc: "Moon KnightOversized Hoodie.",
-        image: "images -1/model-16-black.png",
+        desc: " sa-br Oversized Hoodie.",
+        image: "images -1/model-28-black.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
-            White: "images -1/model-16-white.png",
-            Black: "images -1/model-16-black.png",
-             Burgundy:"images -1/model-16-burgundy.png",
-             Beige:"images -1/model-16-beige.png"
+            White: "images -1/model-28-white.png",
+            Black: "images -1/model-28-black.png",
+             Burgundy:"images -1/model-28-burgundy.png",
+             Beige:"images -1/model-28-beige.png"
         },
         sizes: ["M", "L", "XL","2XL","3XL"]
     },
