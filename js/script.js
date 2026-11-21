@@ -82,6 +82,7 @@ const products = [
       {
         id: 6,
         name: "Banda hoodie",
+           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: "Banda Oversized Hoodie.",
@@ -98,6 +99,7 @@ const products = [
       {
         id: 7,
         name: "building stong girls hoodie",
+           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: "bulding stong Oversized Hoodie.",
@@ -114,6 +116,7 @@ const products = [
       {
         id: 8,
         name: "stitch hoodie",
+           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: " stitch Oversized Hoodie.",
@@ -130,6 +133,7 @@ const products = [
       {
         id: 9,
         name: "sa-br hoodie",
+           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: " sa-br Oversized Hoodie.",
@@ -642,26 +646,28 @@ document
    RENDER PRODUCTS
 ========================================= */
 
-let selectedGender = "men";
+let selectedGender = "all";
 
 function renderProducts(category = "all") {
 
     if (!productsEl) return;
 
-    const genderProducts = products.filter(p =>
-        (p.gender || "men") === selectedGender
-    );
+ const genderProducts = products.filter(p =>
+    selectedGender === "all"
+        ? true
+        : (p.gender || "men") === selectedGender
+);
 
-    const list =
-        category === "all"
-            ? genderProducts
-            : category === "sale"
-                ? genderProducts.filter(p =>
-                    p.oldPrice && p.oldPrice > p.price
-                )
-                : genderProducts.filter(p =>
-                    p.category.toLowerCase() === category.toLowerCase()
-                );
+const list =
+    category === "all"
+        ? genderProducts
+        : category === "sale"
+            ? genderProducts.filter(p =>
+                p.oldPrice && p.oldPrice > p.price
+            )
+            : genderProducts.filter(p =>
+                p.category.toLowerCase() === category.toLowerCase()
+            );
     productsEl.innerHTML = list.map(p => `
 
         <article class="product-card">
