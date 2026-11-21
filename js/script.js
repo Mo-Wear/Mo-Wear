@@ -165,7 +165,7 @@ const products = [
         category: "Hoodies",
         price: 600,
         desc: "Dont Quit Oversized Hoodie.",
-        image: "images -1/model-23-black.png",
+        image: "images -1/model-23-white.png",
        colors: ["Black", "White", "Burgundy", "Beige"],
         colorImages: {
             White: "images -1/model-23-white.png",
