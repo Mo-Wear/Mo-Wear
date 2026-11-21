@@ -82,7 +82,6 @@ const products = [
       {
         id: 6,
         name: "Banda hoodie",
-           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: "Banda Oversized Hoodie.",
@@ -99,7 +98,6 @@ const products = [
       {
         id: 7,
         name: "building stong girls hoodie",
-           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: "bulding stong Oversized Hoodie.",
@@ -116,7 +114,6 @@ const products = [
       {
         id: 8,
         name: "stitch hoodie",
-           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: " stitch Oversized Hoodie.",
@@ -133,7 +130,6 @@ const products = [
       {
         id: 9,
         name: "sa-br hoodie",
-           gender:"women",
         category: "Hoodies",
         price: 600,
         desc: " sa-br Oversized Hoodie.",
